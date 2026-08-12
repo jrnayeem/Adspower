@@ -1,0 +1,6 @@
+{
+  "name": "AdsPower Profile Generator",
+  "description": "Bulk AdsPower Import TXT Profile Generator with auto User-Agent parser, device database resolution matching, proxy parser, tab manager, and official AdsPower template exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
